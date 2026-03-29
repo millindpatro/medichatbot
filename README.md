@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-using-Llama2
+# Medical-Chatbot
 
 # How to run?
 ### STEPS:
